@@ -1,1 +1,2 @@
-# rotifer
+# Rotifer
+Device and app for music
